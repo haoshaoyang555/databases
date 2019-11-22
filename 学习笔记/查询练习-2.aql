@@ -1,0 +1,2 @@
+10.查询每门课平均成绩
+select avg(成绩列名) from 表名 where 列名=“XXX”；
